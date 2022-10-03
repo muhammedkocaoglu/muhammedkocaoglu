@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Hi there, I am Muhammed
 
 - 🔭 I’m currently working on pipelined RISC-V
 - 🌱 I’m currently learning UVM
